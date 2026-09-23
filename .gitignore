@@ -1,0 +1,22 @@
+# Data files (too large for GitHub; pulled from public sources — see README)
+*.parquet
+*.zip
+*.csv
+mkt_cap_map.json
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

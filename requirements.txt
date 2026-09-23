@@ -1,0 +1,12 @@
+# Designed for Google Colab; most of these are preinstalled there.
+# The notebook also uses google-colab APIs (Drive mount, auth), which are
+# only available inside Colab.
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+polars>=1.0
+matplotlib>=3.7
+tqdm>=4.66
+yfinance>=0.2.40
+gdown>=5.0
+google-api-python-client>=2.100
